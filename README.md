@@ -1,6 +1,8 @@
 ### Credits ###
 
-This Docker file reproduces the workflow presented at https://www.raywenderlich.com/10197539-building-the-android-open-source-project
+This Docker file reproduces the first steps of the workflow presented at https://www.raywenderlich.com/10197539-building-the-android-open-source-project .
+
+It does one single thing - bulds a Docker image with everything needed to build a non-branded Android operating system binaries based on the Android Open Source Project (AOSP) (https://source.android.com/setup).
 
 ### In a nutshell ###
 
